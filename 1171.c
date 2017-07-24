@@ -28,7 +28,6 @@ int verificar_elementos(int A[], int B[], int n){
 }
 int main(){
 	int n;
-	//qsort (values, 6, sizeof(int), compare);
 	scanf("%d", &n);
 	int vetor1[n], vetor2[2001] = { 0 };
 	ler_vetor(vetor1, n);

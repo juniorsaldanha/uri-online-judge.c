@@ -9,3 +9,4 @@ Att.
 Junior Saldanha
 
 //Estudante de Ciências da Computação da Universidade Federal do Mato Grosso do Sul.
+//Não mais estudante, srsrs, tranquei, to fazendo dinheiro kkkk 
